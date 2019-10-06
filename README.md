@@ -8,11 +8,11 @@ The dataset that we will be wrangling (and analyzing and visualizing) is the twe
 Project Motivation
 ==================
 Context
-
+-------
 Our goal: wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for analyses and visualizations.
 
 The Data
-
+--------
 Enhanced Twitter Archive
 
 The WeRateDogs Twitter archive contains basic tweet data for all 5000+ of their tweets, but not everything. One column the archive does contain though: each tweet's text, which we used to extract rating, dog name, and dog "stage" (i.e. doggo, floofer, pupper, and puppo) to make this Twitter archive "enhanced." Of the 5000+ tweets, we have filtered for tweets with ratings only (there are 2356).
@@ -27,12 +27,14 @@ One more cool thing: we ran every image in the WeRateDogs Twitter archive throug
 
 Project Details
 ===============
-
 Our tasks in this project are as follows:
-Data wrangling, which consists of:
-Gathering data
-Assessing data
-Cleaning data
-Storing, analyzing, and visualizing your wrangled data
 
-There are 2 reports in this project: 1) our data wrangling efforts and 2) our data analyses and visualizations result
+Data wrangling, which consists of:
+  Gathering data
+  Assessing data
+  Cleaning data
+  Storing, analyzing, and visualizing your wrangled data
+
+There are 2 reports in this project:  
+  1) our data wrangling efforts and 
+  2) our data analyses and visualizations result
