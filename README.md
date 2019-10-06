@@ -30,10 +30,10 @@ Project Details
 Our tasks in this project are as follows:
 
 Data wrangling, which consists of:
-  Gathering data
-  Assessing data
-  Cleaning data
-  Storing, analyzing, and visualizing your wrangled data
+  1) Gathering data
+  2) Assessing data
+  3) Cleaning data
+  4) Storing, analyzing, and visualizing your wrangled data
 
 There are 2 reports in this project:  
   1) our data wrangling efforts and 
